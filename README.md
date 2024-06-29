@@ -1,6 +1,11 @@
-**Power Bi:**
+**Power Bi Project:**
 
 ![Screenshot 2024-06-29 122848](https://github.com/janvaljan7/Portfolie_Projects/assets/42122767/db68a036-bd1f-4543-ae9c-af05a5f735b8)
+
+
+
+
+
 
 
 
