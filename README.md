@@ -13,4 +13,5 @@
 **Excel Dashboard:**
 
 
-![Uploading Screenshot 2024-07-07 134504.png…]()
+![Screenshot 2024-07-07 134504](https://github.com/janvaljan7/Portfolie_Projects/assets/42122767/650566b3-c175-4c6d-bc8b-4965e892fb7a)
+
